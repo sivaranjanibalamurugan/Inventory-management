@@ -6,7 +6,7 @@ namespace stock
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to stock management");
+            Console.WriteLine("Welcome to Inventory management");
             Inventory.ReadInput();
             Console.ReadLine();
         }
